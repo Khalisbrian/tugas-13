@@ -51,7 +51,7 @@
           <img src="{{asset('img/karane.jpg')}}" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Alief wafiq ramadhan</a>
+          <a href="#" class="d-block">Khalisya briandaufa</a>
         </div>
       </div>
 
