@@ -18,6 +18,8 @@ class CreateCastTable extends Migration
             $table->string('nama', 255);
             $table->text('bio');
             $table->integer('umur');
+            $table->string('updated_at', 255);
+            $table->string('created_at', 255);
         });
     }
 

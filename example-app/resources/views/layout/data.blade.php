@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}"">
 <head>
@@ -49,10 +48,10 @@
       <!-- Sidebar user (optional) -->
       <div class="user-panel mt-3 pb-3 mb-3 d-flex">
         <div class="image">
-          <img src="{{asset('img/_3.jpeg')}}" class="img-circle elevation-2" alt="User Image">
+          <img src="{{asset('img/karane.jpg')}}" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Khalisya briandaufa</a>
+          <a href="#" class="d-block">Alief wafiq ramadhan</a>
         </div>
       </div>
 
@@ -86,6 +85,14 @@
               <i class="nav-icon fas fa-table"></i>
               <p>
                 Data Table
+              </p>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="/castList" class="nav-link">
+              <i class="nav-icon fas fa-table"></i>
+              <p>
+                Cast
               </p>
             </a>
           </li>
